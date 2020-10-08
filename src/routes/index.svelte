@@ -2,6 +2,7 @@
 	h1, figure, p {
 		text-align: center;
 		margin: 0 auto;
+		color: #E3332A;
 	}
 
 	h1 {
