@@ -5,7 +5,7 @@
 <style>
 	nav {
 		border-bottom: 1px solid rgba(145,175,121,0.1);
-		font-weight: 300;
+		font-weight: 700;
 		padding: 0 1em;
 	}
 
@@ -24,6 +24,7 @@
 	li {
 		display: block;
 		float: left;
+		color: #E3332A;
 	}
 
 	.selected {
@@ -36,7 +37,7 @@
 		content: '';
 		width: calc(100% - 1em);
 		height: 2px;
-		background-color: rgb(175,14,7);
+		background-color: rgb(227,51,42);
 		display: block;
 		bottom: -1px;
 	}

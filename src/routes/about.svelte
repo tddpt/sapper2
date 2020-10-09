@@ -34,4 +34,4 @@
 
 <h1>About this site</h1>
 
-<p>Sapper is like greased lightning.</p>
+<p><a href="/blog/how-to-use-sapper" target="blank">Sapper</a> is like greased lightning.</p>
