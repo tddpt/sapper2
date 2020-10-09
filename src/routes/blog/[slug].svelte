@@ -26,9 +26,16 @@
 		so we have to use the :global(...) modifier to target
 		all elements inside .content
 	*/
+	h1 {
+		color: #E3332A;
+	}
 	.content :global(h2) {
 		font-size: 1.4em;
 		font-weight: 500;
+
+	}
+	.content {
+		color: #E3332A;
 	}
 
 	.content :global(pre) {
@@ -37,11 +44,13 @@
 		padding: 0.5em;
 		border-radius: 2px;
 		overflow-x: auto;
+
 	}
 
 	.content :global(pre) :global(code) {
 		background-color: transparent;
 		padding: 0;
+
 	}
 
 	.content :global(ul) {

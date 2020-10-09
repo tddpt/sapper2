@@ -11,9 +11,14 @@
 </script>
 
 <style>
+		h1 {
+		margin: 0 auto;
+		color: #E3332A;
+	}
 	ul {
 		margin: 0 0 1em 0;
 		line-height: 1.5;
+		color: #E3332A;
 	}
 </style>
 

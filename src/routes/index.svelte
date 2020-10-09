@@ -8,12 +8,17 @@
 	h1 {
 		font-size: 2.8em;
 		text-transform: uppercase;
-		font-weight: 700;
+		font-weight: 400;
 		margin: 0 0 0.5em 0;
+		font-family: 'Monoton', cursive;
+
 	}
 
 	figure {
 		margin: 0 0 1em 0;
+	}
+	figcaption {
+		margin: -1em 0 0 0;
 	}
 
 	img {
@@ -40,8 +45,8 @@
 <h1>TODDPETERSON.MEN</h1>
 
 <figure>
-	<img alt='Borat' src='tddpt.png'>
+	<img alt='Todd' src='tddpt.png'>
 	<figcaption>You people watch too many movies!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>Try editing this file to test live reloading.</strong></p>
