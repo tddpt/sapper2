@@ -34,14 +34,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Todd Peterson Projects</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>TODDPETERSON.MEN</h1>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
+	<img alt='Borat' src='tddpt.png'>
+	<figcaption>You people watch too many movies!</figcaption>
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
