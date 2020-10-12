@@ -8,8 +8,10 @@
 	h1 {
 		font-size: 2.8em;
 		text-transform: uppercase;
-		font-weight: 700;
+		font-weight: 400;
 		margin: 0 0 0.5em 0;
+		font-family: 'Monoton', cursive;
+
 
 	}
 
@@ -29,9 +31,9 @@
 </style>
 
 <svelte:head>
-	<title>About</title>
+	<title>Info</title>
 </svelte:head>
 
-<h1>About this site</h1>
+<h1>Info</h1>
 
 <p><a href="/blog/how-to-use-sapper" target="blank">Sapper</a> is like greased lightning.</p>

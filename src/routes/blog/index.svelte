@@ -11,9 +11,15 @@
 </script>
 
 <style>
-		h1 {
+	h1 {
+		text-align: center;
 		margin: 0 auto;
 		color: #E3332A;
+		font-size: 2.8em;
+		text-transform: uppercase;
+		font-weight: 400;
+		margin: 0 0 0.5em 0;
+		font-family: 'Monoton', cursive;
 	}
 	ul {
 		margin: 0 0 1em 0;
@@ -23,10 +29,10 @@
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>Men in Adventure</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<h1>Men in Adventure</h1>
 
 <ul>
 	{#each posts as post}
